@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "KING OF DEVIL SATYA" );
+        System.out.println( "WELCOME TO DIET " );
     }
 }
