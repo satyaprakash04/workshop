@@ -32,7 +32,7 @@
                 <sonar.token>
                   sqp_7415c8d58cbd0ce469884c19026236261dcedb92
                 </sonar.token>
-                <!--<sonar.login>admin</sonar.login>->
+                <!--<sonar.login>admin</sonar.login>-->
                 <!--<sonar.password>Satya</sonar.password>-->
             </properties>
         </profile>
